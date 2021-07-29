@@ -25,7 +25,7 @@ nav {
     background-color: darkorange;
     color: white;
     padding: 16px;
-    font-size: 16px;
+    font-size: 20px;
     border: none;
     border-radius: 5%;
     cursor: pointer;
@@ -73,6 +73,7 @@ a {
 }
 
 p {
+    font-size: 20px;
     color: white;
     display: flex;
     align-items: center;
@@ -87,5 +88,6 @@ aside {
 footer {
     text-align: center;
     color: white;
+    
 
 }
